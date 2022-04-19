@@ -21,3 +21,5 @@ Here are some good example of how the platform might provide value in a cumulati
 3.	All users have access to DeFi options such as liquidity farming and cross-chain switching.
 
 4.	The platform will allow users to advertise their material by allowing them to share it. This will enable potential project backers to become involved.
+
+![Yumpie NFT](../../static/img/clarity.svg)
