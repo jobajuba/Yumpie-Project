@@ -61,12 +61,7 @@ const config = {
           {
             type: 'localeDropdown',
             position: 'right',
-          },        
-          {
-            to: '/docs/contribute ',
-            label: 'Contribute to Docs',
-            position: 'right',
-          },
+          },    
           {
             href: 'https://yumpie.app/',
             label: 'Return to Yumpie',
