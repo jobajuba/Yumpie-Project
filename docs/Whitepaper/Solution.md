@@ -8,6 +8,8 @@ Yumpie purports to be the first social media network to promote the notion of cr
 
 Yumpie notably abandons the traditional blogosphere experience in favour of developing a new interface architecture centred around scalability. Yumpie will ultimately evolve into a fast-growing and scalable ecosystem as more users and projects join the platform, allowing for the easy integration of various features and capabilities that benefit the blockchain industry.
 
+![Yumpie NFT](../../static/img/yumpie.gif)
+
 The ability to integrate projects and communities under a unified ecosystem offers a solution to the industry’s crucial quandaries:
 
 1.	Yumpie's ecosystem will become a primary source of market intelligence for both blockchain and non-blockchain whenever vantures and people are brought together. Each ecosystem member, particularly novices, may readily access a wealth of information that validates exploratory findings in real time.

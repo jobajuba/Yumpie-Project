@@ -8,8 +8,6 @@ sidebar_position: 1
 
 Community-centred technology built to provide scalable, user-friendly educational tools for innovators around the world. Hyperledger-based native blockchain for the Yo! Student Protocol that supports collaborative development of blockchain-based projects. 
 
-![Yumpie NFT](../../static/img/yumpie.gif)
-
 Once you've integrated, you'll never have to worry about counter productivity or scaling again
 The Yumpie growing ecosystem maintains a single global state as the network scales, ensuring composability between ecosystem projects. Never work with redundant storage or fragmented systems configurations.
 
