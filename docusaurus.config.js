@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'yumpie', // Usually your GitHub org/user name.
-  projectName: 'yumpie_docs', // Usually your repo name.
+  organizationName: 'Jobajuba', // Usually your GitHub org/user name.
+  projectName: 'yumpie_docs2.0', // Usually your repo name.
 
   presets: [
     [
@@ -23,13 +23,13 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/jobajuba/docusaurus',
+          editUrl: 'https://github.com/jobajuba/yumpie_docs2.0',
         },
         blog: false,
         /*blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/jobajuba/docusaurus',
+            'https://github.com/jobajuba/yumpie_docs2.0',
         },*/
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
