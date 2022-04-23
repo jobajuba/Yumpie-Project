@@ -6,10 +6,10 @@ sidebar_position: 1
 
 # Welcome to yumpie
 
-Community-centred technology built to provide scalable, user-friendly educational tools for innovators around the world. Hyperledger-based native blockchain for the Yo! Student Protocol that supports collaborative development of blockchain-based projects. 
+Technology created with the community in mind to deliver scalable, user-friendly instructional tools to entrepreneurs all around the world. Yo! Student Protocol uses a Hyperledger-based native blockchain to facilitate collaborative development of blockchain-based products.
 
-Once you've integrated, you'll never have to worry about counter productivity or scaling again
-The Yumpie growing ecosystem maintains a single global state as the network scales, ensuring composability between ecosystem projects. Never work with redundant storage or fragmented systems configurations.
+Decentralized social media is still a novel technology that is changing the way people share information, therefore the future appears bright.
+You'll never have to worry about counter productivity or scaling again after you've integrated. An all-in-one cloud-based solution that enables small-scale, personal, and often impersonal text, sound, and video communication channels. As the network scales, the Yumpie expanding ecosystem maintains a single global state, ensuring composability between ecosystem projects. Working with redundant storage or fragmented system configurations is never a good idea.
 
 ## The Yostudent powered by Yumpie protocol is made up of five main components:
 #### 1 Social 
