@@ -12,7 +12,7 @@ interface Props {
 export default function BrowserWindow({
   children,
   minHeight,
-  url = 'http://localhost:3000',
+  url = 'https://yumpie.app/resource-allocation',
 }: Props): JSX.Element {
   return (
     <div className={styles.browserWindow} style={{minHeight}}>

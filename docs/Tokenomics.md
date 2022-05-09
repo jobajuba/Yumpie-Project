@@ -14,103 +14,105 @@ import styles from './markdown-features-styles.module.css';
 
 ![Yumpie NFT](../static/img/pie.svg)
 ## The total token supply of YUM is 23,000,000,000 units
-
+![Yumpie NFT](../static/img/all.svg)
 ```mdx-code-block
 <BrowserWindow>
   <Tabs>
-    <TabItem value="ethereum" label="Ethereum">
-      ## Seed
-       ### 230,000,000 
-      ## Dev & Advisors
-       ### 569,250,000
-      ## Liquidity Provider
-       ### 569,250,000
-      ## Team
-       ### 1,138,500,000
-      ## Presale
-       ### 109,250,000
-      ## Private
-       ### 511,750,000
-      ## Public
-       ### 57,500,000
-      ## Marketing
-       ### 741,750,000
-      ## Reserve
-       ### 569,250,000
-      ## Ecosystem   
-       ### 1,253,500,000
+    <TabItem value="ethereum" label="Ethereum">    
+      <h2>25% Ethereum </h2>
+      <h3>Seed - 230,000,000 </h3>
+      <br/>
+      <h3>Dev & Advisors - 569,250,000  </h3>
+      <br/>
+      <h3>Liquidity Provider - 569,250,000  </h3>
+      <br/>
+      <h3>Team - 1,138,500,000  </h3>
+      <br/>
+      <h3>Presale - 109,250,000  </h3>
+      <br/>
+      <h3>Private - 511,750,000  </h3>
+      <br/>
+      <h3>Public - 57,500,000  </h3>
+      <br/>
+      <h3>Marketing - 741,750,000  </h3>
+      <br/>
+      <h3>Reserve - 569,250,000  </h3>
+      <br/>
+      <h3>Ecosystem - 1,253,500,000  </h3>
+      <br/>
     </TabItem>
     <TabItem value="binance smart chain" label="Binance Smart Chain">
-     ## Seed
-       ### 230,000,000 
-      ## Dev & Advisors
-       ### 569,250,000
-      ## Liquidity Provider
-       ### 569,250,000
-      ## Team
-       ### 1,138,500,000
-      ## Presale
-       ### 109,250,000
-      ## Private
-       ### 511,750,000
-      ## Public
-       ### 57,500,000
-      ## Marketing
-       ### 741,750,000
-      ## Reserve
-       ### 569,250,000
-      ## Ecosystem   
-       ### 1,253,500,000
+      <h2>25% Binance Smart Chain </h2>
+      <h3>Seed - 230,000,000 </h3>
+      <br/>
+      <h3>Dev & Advisors - 569,250,000  </h3>
+      <br/>
+      <h3>Liquidity Provider - 569,250,000  </h3>
+      <br/>
+      <h3>Team - 1,138,500,000  </h3>
+      <br/>
+      <h3>Presale - 109,250,000  </h3>
+      <br/>
+      <h3>Private - 511,750,000  </h3>
+      <br/>
+      <h3>Public - 57,500,000  </h3>
+      <br/>
+      <h3>Marketing - 741,750,000  </h3>
+      <br/>
+      <h3>Reserve - 569,250,000  </h3>
+      <br/>
+      <h3>Ecosystem - 1,253,500,000  </h3>
+      <br/>
     </TabItem>
     <TabItem value="polygon" label="Polygon">
-     ## Seed
-       ### 230,000,000 
-      ## Dev & Advisors
-       ### 569,250,000
-      ## Liquidity Provider
-       ### 569,250,000
-      ## Team
-       ### 1,138,500,000
-      ## Presale
-       ### 109,250,000
-      ## Private
-       ### 511,750,000
-      ## Public
-       ### 57,500,000
-      ## Marketing
-       ### 741,750,000
-      ## Reserve
-       ### 569,250,000
-      ## Ecosystem   
-       ### 1,253,500,000
+      <h2>25% Polygon Matic </h2>
+      <h3>Seed - 230,000,000 </h3>
+      <br/>
+      <h3>Dev & Advisors - 569,250,000  </h3>
+      <br/>
+      <h3>Liquidity Provider - 569,250,000  </h3>
+      <br/>
+      <h3>Team - 1,138,500,000  </h3>
+      <br/>
+      <h3>Presale - 109,250,000  </h3>
+      <br/>
+      <h3>Private - 511,750,000  </h3>
+      <br/>
+      <h3>Public - 57,500,000  </h3>
+      <br/>
+      <h3>Marketing - 741,750,000  </h3>
+      <br/>
+      <h3>Reserve - 569,250,000  </h3>
+      <br/>
+      <h3>Ecosystem - 1,253,500,000  </h3>
+      <br/>
     </TabItem>
     <TabItem value="solana" label="Solana">
-     ## Seed
-       ### 230,000,000 
-      ## Dev & Advisors
-       ### 569,250,000
-      ## Liquidity Provider
-       ### 569,250,000
-      ## Team
-       ### 1,138,500,000
-      ## Presale
-       ### 109,250,000
-      ## Private
-       ### 511,750,000
-      ## Public
-       ### 57,500,000
-      ## Marketing
-       ### 741,750,000
-      ## Reserve
-       ### 569,250,000
-      ## Ecosystem   
-       ### 1,253,500,000
+       <h2>25% Solana </h2>
+      <h3>Seed - 230,000,000 </h3>
+      <br/>
+      <h3>Dev & Advisors - 569,250,000  </h3>
+      <br/>
+      <h3>Liquidity Provider - 569,250,000  </h3>
+      <br/>
+      <h3>Team - 1,138,500,000  </h3>
+      <br/>
+      <h3>Presale - 109,250,000  </h3>
+      <br/>
+      <h3>Private - 511,750,000  </h3>
+      <br/>
+      <h3>Public - 57,500,000  </h3>
+      <br/>
+      <h3>Marketing - 741,750,000  </h3>
+      <br/>
+      <h3>Reserve - 569,250,000  </h3>
+      <br/>
+      <h3>Ecosystem - 1,253,500,000  </h3>
+      <br/>
     </TabItem>
   </Tabs>
 </BrowserWindow>
 ```
-
-![Yumpie NFT](../static/img/all.svg)
 
 
 
