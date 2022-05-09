@@ -1,5 +1,5 @@
 
-## Total supply 23,666,666,666 Billion across multiple chains. 
+## Total supply 23 Billion across multiple chains. 
 
 Ethereum: 
 >:white_check_mark:[Total supply 7,666,666,666](https://etherscan.io/)
