@@ -1,8 +1,5 @@
 ---
 sidebar_position: 4
----
-
----
 id: tokenomics
 title: Tokenomics
 description: Token economics
