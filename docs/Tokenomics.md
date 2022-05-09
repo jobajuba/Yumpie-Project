@@ -2,6 +2,19 @@
 sidebar_position: 4
 ---
 
+---
+id: tokenomics
+title: Tokenomics
+description: Token economics
+---
+
+```mdx-code-block
+import BrowserWindow from '@site/src/components/BrowserWindow';
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+import styles from './markdown-features-tabs-styles.module.css';
+```
+
 ```mdx-code-block
 <BrowserWindow>
   <Tabs>
