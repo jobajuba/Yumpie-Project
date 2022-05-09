@@ -12,6 +12,9 @@ import TabItem from '@theme/TabItem';
 import styles from './markdown-features-styles.module.css';
 ```
 
+![Yumpie NFT](../static/img/pie.svg)
+## The total token supply of YUM is 23,000,000,000 units
+
 ```mdx-code-block
 <BrowserWindow>
   <Tabs>
@@ -107,8 +110,6 @@ import styles from './markdown-features-styles.module.css';
 </BrowserWindow>
 ```
 
-![Yumpie NFT](../static/img/pie.svg)
-## The total token supply of YUM is 23,000,000,000 units
 ![Yumpie NFT](../static/img/all.svg)
 
 
