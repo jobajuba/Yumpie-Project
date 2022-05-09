@@ -9,7 +9,7 @@ description: Token economics
 import BrowserWindow from '@site/src/components/BrowserWindow';
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-import styles from './markdown-features-tabs-styles.module.css';
+import styles from './styles.module.css';
 ```
 
 ```mdx-code-block
