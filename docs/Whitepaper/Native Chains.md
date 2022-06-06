@@ -26,9 +26,9 @@ Contract Address:
 ![Polygon Matic](../../static/img/matic.png)
 
 
-###  Solana: 
-:white_check_mark:[Total supply 5,750,000,000](https://solanascan.io/)
+###  Avalanche: 
+:white_check_mark:[Total supply 5,750,000,000](https://avascan.info/)
 ```bash
 Contract Address: 
 ```
-![Solana](../../static/img/sol.png)
+![Solana](../../static/img/av.png)
