@@ -1,18 +1,29 @@
 
-## Total supply 11.5 Billion across multiple chains. 
+## Total supply 92 Billion across multiple chains. 
 
 
 ### Ethereum: 
-:white_check_mark:[Total supply 5,750,000,000](https://etherscan.io/)
+:white_check_mark:[Total supply 23,000,000,000](https://etherscan.io/)
 ```bash
 Contract Address: 
 ```
-![Ethereum](../../static/img/eth.png)
 
 
 ### Binance Smart Chain: 
-:white_check_mark:[Total supply 5,750,000,000](https://bscscan.com/)
+:white_check_mark:[Total supply 23,000,000,000](https://bscscan.com/)
+```bash
+Contract Address: 0xaaf8667e2f186904f9a451b63481f0a8844f8905
+```
+
+### Polygon: 
+:white_check_mark:[Total supply 23,000,000,000](https://etherscan.io/)
 ```bash
 Contract Address: 
 ```
-![Binance Smart Chain](../../static/img/bnb.png)
+
+
+### Solana: 
+:white_check_mark:[Total supply 23,000,000,000](https://bscscan.com/)
+```bash
+Contract Address: 
+```
