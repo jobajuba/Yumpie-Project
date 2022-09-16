@@ -14,7 +14,7 @@ import styles from './markdown-features-styles.module.css';
 
 ![Yumpie NFT](../static/img/pie.svg)
 ## The total token supply of YUM is 92,000,000,000 units
-![Yumpie NFT](../static/img/all.jpg)
+![Yumpie NFT](../static/img/all.JPG)
 ```mdx-code-block
 <BrowserWindow>
   <Tabs>
