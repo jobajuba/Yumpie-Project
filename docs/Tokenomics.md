@@ -22,92 +22,92 @@ import styles from './markdown-features-styles.module.css';
       <h2>25% Ethereum </h2>
       <h3>Seed - 3,680,000,000 </h3>
       <br/>
-      <h3>Dev & Advisors - 9,108,000,000  </h3>
+      <h3>Dev & Advisors - 9,108,000,000 </h3>
       <br/>
-      <h3>Liquidity Provider - 9,108,000,000  </h3>
+      <h3>Liquidity Provider - 9,108,000,000 </h3>
       <br/>
-      <h3>Team - 18,216,000,000  </h3>
+      <h3>Team - 18,216,000,000 </h3>
       <br/>
-      <h3>Presale - 1,748,000,000  </h3>
+      <h3>Presale - 1,748,000,000 </h3>
       <br/>
-      <h3>Private - ,8,188,000,000  </h3>
+      <h3>Private - ,8,188,000,000 </h3>
       <br/>
-      <h3>Public - 920,000,000  </h3>
+      <h3>Public - 920,000,000 </h3>
       <br/>
-      <h3>Marketing - 2,967,000,000  </h3>
+      <h3>Marketing - 2,967,000,000 </h3>
       <br/>
-      <h3>Reserve - 11,868,000,000  </h3>
+      <h3>Reserve - 11,868,000,000 </h3>
       <br/>
-      <h3>Ecosystem - 20,056,000,000  </h3>
+      <h3>Ecosystem - 20,056,000,000 </h3>
       <br/>
     </TabItem>
     <TabItem value="binance smart chain" label="Binance Smart Chain">
       <h2>25% Binance Smart Chain </h2>
       <h3>Seed - 3,680,000,000 </h3>
       <br/>
-      <h3>Dev & Advisors - 9,108,000,000  </h3>
+      <h3>Dev & Advisors - 9,108,000,000 </h3>
       <br/>
-      <h3>Liquidity Provider - 9,108,000,000  </h3>
+      <h3>Liquidity Provider - 9,108,000,000 </h3>
       <br/>
-      <h3>Team - 18,216,000,000  </h3>
+      <h3>Team - 18,216,000,000 </h3>
       <br/>
-      <h3>Presale - 1,748,000,000  </h3>
+      <h3>Presale - 1,748,000,000 </h3>
       <br/>
-      <h3>Private - ,8,188,000,000  </h3>
+      <h3>Private - ,8,188,000,000 </h3>
       <br/>
-      <h3>Public - 920,000,000  </h3>
+      <h3>Public - 920,000,000 </h3>
       <br/>
-      <h3>Marketing - 2,967,000,000  </h3>
+      <h3>Marketing - 2,967,000,000 </h3>
       <br/>
-      <h3>Reserve - 11,868,000,000  </h3>
+      <h3>Reserve - 11,868,000,000 </h3>
       <br/>
-      <h3>Ecosystem - 20,056,000,000  </h3>
+      <h3>Ecosystem - 20,056,000,000 </h3>
       <br/>
     </TabItem>
     <TabItem value="polygon" label="Polygon">
       <h2>25% Polygon Matic </h2>
       <h3>Seed - 3,680,000,000 </h3>
       <br/>
-      <h3>Dev & Advisors - 9,108,000,000  </h3>
+      <h3>Dev & Advisors - 9,108,000,000 </h3>
       <br/>
-      <h3>Liquidity Provider - 9,108,000,000  </h3>
+      <h3>Liquidity Provider - 9,108,000,000 </h3>
       <br/>
-      <h3>Team - 18,216,000,000  </h3>
+      <h3>Team - 18,216,000,000 </h3>
       <br/>
-      <h3>Presale - 1,748,000,000  </h3>
+      <h3>Presale - 1,748,000,000 </h3>
       <br/>
-      <h3>Private - ,8,188,000,000  </h3>
+      <h3>Private - ,8,188,000,000 </h3>
       <br/>
-      <h3>Public - 920,000,000  </h3>
+      <h3>Public - 920,000,000 </h3>
       <br/>
-      <h3>Marketing - 2,967,000,000  </h3>
+      <h3>Marketing - 2,967,000,000 </h3>
       <br/>
-      <h3>Reserve - 11,868,000,000  </h3>
+      <h3>Reserve - 11,868,000,000 </h3>
       <br/>
-      <h3>Ecosystem - 20,056,000,000  </h3>
+      <h3>Ecosystem - 20,056,000,000 </h3>
       <br/>
     </TabItem>
     <TabItem value="solana" label="Solana">
       <h2>25% Solana </h2>
       <h3>Seed - 3,680,000,000 </h3>
       <br/>
-      <h3>Dev & Advisors - 9,108,000,000  </h3>
+      <h3>Dev & Advisors - 9,108,000,000 </h3>
       <br/>
-      <h3>Liquidity Provider - 9,108,000,000  </h3>
+      <h3>Liquidity Provider - 9,108,000,000 </h3>
       <br/>
-      <h3>Team - 18,216,000,000  </h3>
+      <h3>Team - 18,216,000,000 </h3>
       <br/>
-      <h3>Presale - 1,748,000,000  </h3>
+      <h3>Presale - 1,748,000,000 </h3>
       <br/>
-      <h3>Private - ,8,188,000,000  </h3>
+      <h3>Private - ,8,188,000,000 </h3>
       <br/>
-      <h3>Public - 920,000,000  </h3>
+      <h3>Public - 920,000,000 </h3>
       <br/>
-      <h3>Marketing - 2,967,000,000  </h3>
+      <h3>Marketing - 2,967,000,000 </h3>
       <br/>
-      <h3>Reserve - 11,868,000,000  </h3>
+      <h3>Reserve - 11,868,000,000 </h3>
       <br/>
-      <h3>Ecosystem - 20,056,000,000  </h3>
+      <h3>Ecosystem - 20,056,000,000 </h3>
       <br/>
     </TabItem>
   </Tabs>
