@@ -18,7 +18,7 @@ All information on the Site is provided in good faith, however we make no repres
 UNDER NO CIRCUMSTANCE SHALL WE HAVE ANY LIABILITY TO YOU FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF THE SITE OR RELIANCE ON ANY INFORMATION PROVIDED ON THE SITE. YOUR USE OF THE SITE AND YOUR RELIANCE ON ANY INFORMATION ON THE SITE IS SOLELY AT YOUR OWN RISK.
 :::
 
-If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at office@jobajuba.com. Our Disclaimer was generated with the help of the Disclaimer Generator.
+If you require any more information or have any questions about our site's disclaimer, please feel free to contact us by email at office@jobajuba.com.
 
 ## Disclaimers for Yumpie
 
