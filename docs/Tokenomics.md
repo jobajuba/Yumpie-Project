@@ -21,7 +21,6 @@ import styles from './markdown-features-styles.module.css';
   In September 2022, Yumpie declared a total and maximum quantity of 92,000,000,000 YUM tokens during the initial coin offering (ICO) for the tokens. As of mid-September 2022, there were around 23,000,000,000 YUM tokens in circulation, or about 25% of the entire supply. There are 920 million YUM tokens available for purchase at the Yumpie ICO, at a price of $0.001 per token.
 </p>
 <p>
-  <h2>How Is the Yumpie Network Secured?</h2>
   <h3>How Secure Is the Yumpie Network?</h3>
   Yumpie is a multi-chain token that is backed by the proof-of-stake (PoS) consensus protocol. PoS relies on the quantity of staked tokens for choosing node validators, in contrast to Bitocin's proof-of-work (PoW) consensus.
   In order to combat the enormous power consumption required by PoW devices, PoS protocols were developed. PoS models are becoming and more common since they require less electricity and are simple to scale. PoW has established itself as a trustworthy consensus mechanism, yet Ethereum, Binance Smart Chain, Polygon, and Solana coins are dominating the market and increasing quickly.
