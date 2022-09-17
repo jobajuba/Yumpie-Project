@@ -18,7 +18,7 @@ import styles from './markdown-features-styles.module.css';
 </p>
 
 <p>
-  In September 2022, Yumpie declared a total and maximum quantity of 92,000,000,000 YUM tokens during the initial coin offering (ICO) for the tokens. As of mid-September 2022, there were around 23,000,000,000 YUM tokens in circulation, or about 25% of the entire supply. There are 920 million YUM tokens available for purchase at the Yumpie ICO, at a price of $0.001 per token.
+  In September 2022, Yumpie declared a total and maximum quantity of 92,000,000,000 YUM tokens during the initial coin offering (ICO) for the tokens. As of mid-September 2022, there were around 23,000,000,000 YUM tokens in circulation, or about 25% of the entire supply. There are 920 million YUM tokens available for purchase at the Yumpie ICO, at a price of $0.1 per token.
 </p>
 <p>
   <h3>How Secure Is the Yumpie Network?</h3>
