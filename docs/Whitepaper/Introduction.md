@@ -26,12 +26,12 @@ Designed to function with 3D virtual world networks centred on social interactio
 ## Learning and Social Networking Platform
 Dapp built to provide scalable, user-friendly educational tools for the world. Hyperledger-based native blockchain for YoStudent Protocol and Yumpie Token (TUM)
 
-![Yumpie NFT](../../static/img/yostudent.png)
+![YoStudent VLE](../../static/img/yostudent.png)
 
 ### Low Cost Real-Time Transactions
 Real-time transactions at a very low cost. Scalability ensures transactions remain affordable for both all users. Share your ideas with the world.
 
-![Yumpie NFT](../../static/img/wallet.png)
+![YoStudent Transactions](../../static/img/wallet.png)
 
 # Protect Your Intellectual Property
 Sign you ideas and projects forever in the blockchain. Brand, reputation and intellectual property (IP) affect everyone. Get the maximum protection for your knowhow or creative output.
@@ -45,19 +45,26 @@ Simplify partnership and develop a successful product. Communicate, exchange inf
 # Built for complex collaborations and lifecycle operations
 Take control of the lifecycle of your businesses and projects with real-world industry-leading digital infrastructure. Each partnership begins with the evaluation and selection of the best collaborators. Yumpie technology simpliies the process of partner selection, agreement formation, and projects execution. Validate each other using the power of blockchain.
 
-![Yumpie NFT](../../static/img/videocall.gif)
-
 ### Maximum security that ensures total privacy
 End-to-end state-of-the-art encryption means more secure meetings and classrooms. All of your communications is secure. End to end state of the art encryption means your participants are exactly that. Your calls.
 
 ### Live streaming, chat, file sharing and more
 Share your screen, application window, present your documents, slides and more. Simple collaborative whiteboard to draw and explain your concepts to the other participants in the meeting. File Sharing. Share any types of files to all participants in the meeting, in total security, thanks to Datagram Transport Layer Security (DTLS).
 
+![YoStudent Smart Contract Generator](../../static/img/whiteboard.png)
 
 ### Unlimited number of conference rooms without call time limitation
 Share your screen, application window, present your documents, slides and more. Having the webcam on, allows participants to make a deeper connection with you. Up to 4k resolution. Chat with others in meeting, either public chat or private, save the meeting messages. Integrated emoji picker to show your feeling.
 
-# Cloud-based documents editing
-Perfect for developing countries where the power grid can be unrealiable. Everything is autosaved as you type. All you assignments safe and secure in one place. No need to worry about looking your work ever again. YoStudent has it all. A virtual learning platform that eleminates the need to download and install multiple software. Sign messages, images and more. Sign it and you said it first. It's yours forever.
+![YoStudent Homeroom](../../static/img/videocall.gif)
+# All-in-one business management solution
+From easy to use and legally verified contract templates to smart invoices designed to cut the time it takes to get paid and get you paid without chasing clients. Everything is autosaved as you type. All you assignments safe and secure in one place. No need to worry about looking your work ever again. YoStudent has it all. A virtual learning platform that eleminates the need to download and install multiple software. Sign messages, images and more. Sign it and you said it first. It's yours forever.
 
-![Yumpie NFT](../../static/img/doc1.png)
+![YoStudent business management solution](../../static/img/doc1.png)
+
+# Smart Contract Generator
+The OpenZeppelin Smart Contract Generator is an easy-to-use interface to the public interface of OpenZeppelin, a framework for writing smart contracts as well as other blockchain development tools.
+
+OpenZeppelin Smart Contract Generator is a community driven tool that enables developers to create smart contracts using Zeppelin libraries. It is decentralized and open source, with strong guarantees provided by the Ethereum blockchain. A toolbox for smart contract deployment, development and management. With a simple interface and intuitive drag-and-drop functionality, you can deploy your own digital assets with ease.
+
+![YoStudent Smart Contract Generator](../../static/img/openzep.png)
