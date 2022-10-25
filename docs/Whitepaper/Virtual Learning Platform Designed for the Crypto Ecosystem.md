@@ -6,10 +6,6 @@ sidebar_position: 4
 
 Yumpie emerges as the solution to the four industrial issues discussed in the introduction, despite the failures of innumerable efforts. Yumpie is poised to create a one-stop crypto ecosystem that connects global crypto projects and communities by employing the concept of social media as its base. 
 
-:::info
-Yumpie is the latest in a long line of crypto social sites that promote concepts such as "censorship-resistance," "free speech," and "data-privacy," which are unpopular among crypto enthusiasts.
-:::
-
 Moreover, because of Steemit's success as the first decentralised publishing platform, many other platforms have attempted to replicate its success. Real-time chat, custom emotes integration, and other platform features and functionalities are severely limited by the UI of a blogging platform. Because user involvement is so undervalued, many platforms fall short of delivering a genuine community-building effort.
 
 > The lack of a clear frontrunner in the crypto social media environment indicates that existing platforms are failing to pique the interest of global bitcoin groups. Yumpie determined that the one thing that blockchain users are interested in is none other than Cryptocurrency and Blockchain Technology, after reflecting on the faults of these platforms.
