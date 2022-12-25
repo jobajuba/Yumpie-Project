@@ -2,69 +2,54 @@
 sidebar_position: 1
 ---
 
-# Introduction
-
 # Welcome to yumpie
 
-Technology created with the community in mind to deliver scalable, user-friendly instructional tools to entrepreneurs all around the world. Yo! Student Protocol uses a Hyperledger-based native blockchain to facilitate collaborative development of blockchain-based products.
+The education sector is facing a number of challenges and problems, including inequality in access to quality education, lack of transparency and accountability, difficulty in verifying the authenticity of educational credentials, limited opportunities for social interaction and collaboration in online learning, inefficient and costly educational systems, lack of flexibility and customization in educational programs, difficulty in tracking and measuring learning progress, and limited opportunities for lifelong learning.
 
-Decentralized social media is still a novel technology that is changing the way people share information, therefore the future appears bright.
-You'll never have to worry about counter productivity or scaling again after you've integrated. An all-in-one cloud-based solution that enables small-scale, personal, and often impersonal text, sound, and video communication channels. As the network scales, the Yumpie expanding ecosystem maintains a single global state, ensuring composability between ecosystem projects. Working with redundant storage or fragmented system configurations is never a good idea.
+Blockchain technology has the potential to address many of these challenges and provide solutions that can help to create a more inclusive, transparent, and engaging learning experience. Yo! Student can provide equal access to quality education, increase transparency and accountability, verify the authenticity of educational credentials, foster social interaction and collaboration, streamline administrative processes and reduce costs, enable personalized learning, track and measure learning progress, and promote lifelong learning and professional development.
 
-## The Yostudent powered by Yumpie protocol is made up of five main components:
-#### 1 Social 
-Community-centred technology built to provide scalable, user-friendly educational tools for innovators around the world. Hyperledger-based native blockchain for the Yo! Student Protocol that supports collaborative development of blockchain-based projects.
-#### 2 Virtual learning
-Cloud-based document editing, virtual classrooms - free browser based real-time video conference and other essential education centered features. 
-#### 3 NFT
-Get a closer look at Yumpie&#44;s Exclusive Rare &amp Ultra Rare NFTs. A total of 23 NFTs to be released. 2,300 mintable for the first 22 Editions. For the 23rd Edition, Only 23 will be released for (auction).
-#### 4 DeFi
-Decentralised finance (DeFi) proposed as a new kind of crypto market intermediation. Innovative automated protocols on blockchains to support trading, lending, and investment of cryptoassets, as well as stablecoins that facilitate financial transfers are crucial components of this ecosystem.
-#### 5 Metaverse
-Designed to function with 3D virtual world networks centred on social interaction. It is sometimes defined as a hypothetical iteration of the Internet as a single, universal virtual environment that is assisted by the usage of virtual and augmented reality.
+The use of blockchain technology in the education sector is a relatively new and rapidly evolving area, and there are still many questions and challenges to be addressed. However, we believe that the benefits of Yo! Student is compelling and can help to create a more equitable, efficient, and effective education system.
 
-## Learning and Social Networking Platform
-Dapp built to provide scalable, user-friendly educational tools for the world. Hyperledger-based native blockchain for YoStudent Protocol and Yumpie Token (TUM)
+One of the key benefits of Yo! Student is its ability to provide equal access to quality education. By offering a wide range of educational resources and courses that are accessible to anyone with an internet connection, the platform can help to reduce barriers to education and provide equal access to quality education, particularly in developing countries where access to education is often limited.
 
-![YoStudent VLE](../../static/img/yostudent.png)
+Another important benefit of Yo! Student is its ability to increase transparency and accountability in the education system. By providing a transparent and immutable record of educational achievements and qualifications, the platform can help to increase transparency and accountability and reduce fraud and counterfeiting.
 
-### Low Cost Real-Time Transactions
-Real-time transactions at a very low cost. Scalability ensures transactions remain affordable for both all users. Share your ideas with the world.
+In addition, the use of Yo! Student can help to verify the authenticity of educational credentials, which can increase their value and trustworthiness. This is particularly important in the case of online degrees or certificates, which can be difficult to verify.
 
-![YoStudent Transactions](../../static/img/wallet.png)
+Yo! Student can also foster social interaction and collaboration, which can create a more engaging and immersive learning experience for students. By providing opportunities for students to interact and collaborate with each other and with educators, the platform can create a more interactive and collaborative learning environment.
 
-# Protect Your Intellectual Property
-Sign you ideas and projects forever in the blockchain. Brand, reputation and intellectual property (IP) affect everyone. Get the maximum protection for your knowhow or creative output.
+In this whitepaper, we will explore the benefits and potential of Yo! Student and how it can address the challenges and problems facing the education sector. We will also discuss the technical and operational aspects of such a platform and how it can be implemented and adopted. We believe that Yo! Student has the potential to revolutionize the way we approach education and can create a more inclusive, transparent, and engaging learning experience for students around the world.
 
-### Increases the transparency when monitising projects, hobby and idea
-Quickly and efficiently deploy transparent and self-executing contracts, by generating automated smart contracts as development standard solutions. This secures the rights of contributors to the project using Yumpie Protocol.
+There are several reasons why Yo! Student can be successful:
 
-### Joint control over the shared projects and information
-Simplify partnership and develop a successful product. Communicate, exchange information, and coordinate work with engineers, designers, customers, and suppliers in your own unique ecosystem.
+1. High demand for quality education: There is a high demand for quality education, particularly in developing countries where access to education is often limited. A platform that provides equal access to educational resources and courses can be successful in meeting this demand.
 
-# Built for complex collaborations and lifecycle operations
-Take control of the lifecycle of your businesses and projects with real-world industry-leading digital infrastructure. Each partnership begins with the evaluation and selection of the best collaborators. Yumpie technology simpliies the process of partner selection, agreement formation, and projects execution. Validate each other using the power of blockchain.
+2. Increasing adoption of online learning: The COVID-19 pandemic has accelerated the adoption of online learning, and it is expected that this trend will continue even after the pandemic ends. Yo! Student provides a flexible and engaging online learning experience can be successful in attracting users.
 
-### Maximum security that ensures total privacy
-End-to-end state-of-the-art encryption means more secure meetings and classrooms. All of your communications is secure. End to end state of the art encryption means your participants are exactly that. Your calls.
+3. Leveraging the benefits of blockchain technology: The use of blockchain technology can provide many benefits to the education sector, including increased transparency and accountability, verifiable educational credentials, and streamlined administrative processes. A platform that leverages these benefits can be successful in attracting users and investors.
 
-### Live streaming, chat, file sharing and more
-Share your screen, application window, present your documents, slides and more. Simple collaborative whiteboard to draw and explain your concepts to the other participants in the meeting. File Sharing. Share any types of files to all participants in the meeting, in total security, thanks to Datagram Transport Layer Security (DTLS).
+4. Strong ecosystem support: If the platform is developed by a company with a strong ecosystem of products and services, such as a cryptocurrency exchange or a staking platform, it can benefit from the support and resources of that ecosystem, which can help to drive its success.
 
-![YoStudent Smart Contract Generator](../../static/img/whiteboard.png)
+5. Strong community support: A platform with a large and active community of developers and users can benefit from the support and resources of that community, which can help to drive its success.    
 
-### Unlimited number of conference rooms without call time limitation
-Share your screen, application window, present your documents, slides and more. Having the webcam on, allows participants to make a deeper connection with you. Up to 4k resolution. Chat with others in meeting, either public chat or private, save the meeting messages. Integrated emoji picker to show your feeling.
+Yo! Student can be successful if it meets a high demand for quality education, leverages the benefits of blockchain technology, has strong ecosystem and community support, and provides a flexible and engaging online learning experience.
 
-![YoStudent Homeroom](../../static/img/videocall.gif)
-# All-in-one business management solution
-From easy to use and legally verified contract templates to smart invoices designed to cut the time it takes to get paid and get you paid without chasing clients. Everything is autosaved as you type. All you assignments safe and secure in one place. No need to worry about looking your work ever again. YoStudent has it all. A virtual learning platform that eleminates the need to download and install multiple software. Sign messages, images and more. Sign it and you said it first. It's yours forever.
+In addition to the benefits mentioned so far, Yo! Student can also streamline administrative processes and reduce costs. By automating certain tasks and eliminating intermediaries, the platform can help to reduce the administrative burden and lower costs for both educators and students.
 
-![YoStudent business management solution](../../static/img/doc1.png)
+Another important benefit of Yo! Student is its ability to enable personalized learning. By allowing students to create personalized learning paths and choose from a wide range of educational resources, the platform can help to increase the effectiveness and relevance of learning, as students can tailor their learning to their individual needs and goals.
 
-# Smart Contract Generator
-The OpenZeppelin Smart Contract Generator is an easy-to-use interface to the public interface of OpenZeppelin, a framework for writing smart contracts as well as other blockchain development tools.
+Yo! Student can also help to track and measure learning progress, which can be particularly useful for online learning. By providing a secure and verifiable way to track and measure learning progress, the platform can help students to set and achieve learning goals and educators to improve the effectiveness of their teaching.
 
-OpenZeppelin Smart Contract Generator is a community driven tool that enables developers to create smart contracts using Zeppelin libraries. It is decentralized and open source, with strong guarantees provided by the Ethereum blockchain. A toolbox for smart contract deployment, development and management. With a simple interface and intuitive drag-and-drop functionality, you can deploy your own digital assets with ease.
+Finally, Yo! Student can promote lifelong learning and professional development by offering a wide range of educational resources and courses that are accessible to anyone. This can help to keep individuals up-to-date with the latest developments in their field and maintain their professional skills and knowledge.
 
-![YoStudent Smart Contract Generator](../../static/img/openzep.png)
+> The benefits of Yo! Student are numerous and can help to create a more inclusive, transparent, and engaging learning experience for students around the world. In the following sections of this whitepaper, we will explore the technical and operational aspects of such a platform in more detail.
+
+One of the key technical considerations for Yo! Student is the choice of blockchain protocol. There are several options to choose from, each with its own advantages and disadvantages. Some popular options include Ethereum, EOS, and TRON. The choice of blockchain protocol will depend on the specific requirements and goals of the platform, such as scalability, transaction fees, and smart contract functionality.
+
+Another important technical consideration is the development of a token system for the platform. The platform can use its own native token or can utilize an existing token, such as a stablecoin. The token can be used for a variety of purposes, such as paying for educational resources and courses, rewarding educators for their contributions, or incentivizing student participation.
+
+In terms of operational considerations, Yo! Student will need to have a strong governance model to ensure that it is run in a fair and transparent manner. This can involve the use of decentralized governance mechanisms, such as voting or staking, or a more traditional centralized governance model.
+
+Another important operational consideration is the business model of the platform. The platform can generate revenue through fees or subscriptions for educational resources and courses, or it can use alternative models, such as crowdfunding or sponsorship.
+
+Overall, there are many technical and operational considerations to take into account when developing and implementing Yo! Student. In the following sections of this whitepaper, we will explore these considerations in more detail and discuss how they can be addressed.
