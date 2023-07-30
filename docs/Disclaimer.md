@@ -9,7 +9,7 @@ Last updated July 30, 2023
 :::
 
 :::note
-The information provided by Jobajuba Digital Studio Limited (“we,” “us”, or “our”) on https://yumpie.app, https//yumpie.live (the “Site(s)”) is for general informational purposes only. 
+The information provided by Jobajuba Digital Studio Limited (“we,” “us”, or “our”) on https://yumpie.app, https://yumpie.live (the “Site(s)”) is for general informational purposes only. 
 
 All information on the Site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information on the Site. 
 :::
