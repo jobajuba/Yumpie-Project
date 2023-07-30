@@ -5,7 +5,7 @@ sidebar_position: 5
 # Anti-Money Laundering and Know Your Customer Policy
 
 :::info
-Last updated March 09, 2022
+Last updated July 30, 2023
 :::
 
 Jobajuba Digital Studio (hereinafter – Yumpie Token”) Anti-Money Laundering and Know Your Customer Policy (hereinafter – “AML and KYC Policy”) is designated to prevent and mitigate possible risks of Yumpie Token being involved in any kind of illegal activity.
@@ -184,7 +184,21 @@ Yumpie Token, in accordance with international requirements takes a risk-based a
 
 ##### 6.1 Acceptance
 
-By joining the Yumpie Token ICO, which is defined as making a Yumpie Token token purchase in a specific method stated in the clause 4 of this AML and KYC Policy, the User accepts the terms of this AML and KYC Policy and hereby agrees to have read, understood and accepted the Terms of Use and Data Protection Policy available at: **https://yumpie.app**. In addition, when using certain services, the User may be subject to additional agreements applicable to such services. The User must stop using the services and the website if they do not agree with the AML and KYC Policy and the Terms of Use and Data Protection Policy.
+By participating in the Yumpie Token Initial Coin Offering (ICO), defined as making a Yumpie Token token purchase through the specific method stated in clause 4 of this AML and KYC Policy, the User explicitly agrees to comply with the following terms. Prior to participating in the ICO, the User is required to carefully read, understand, and accept the Terms of Use and Data Protection Policy available at https://yumpie.app and http://yumpie.app/.
+
+In addition to the aforementioned policies, certain services provided on our platform may be subject to additional agreements, which will be applicable to the User when using those specific services. It is essential for the User to review and abide by any such additional agreements related to the provided services.
+
+It is crucial to note that by joining the Yumpie Token ICO, the User acknowledges the significance of Anti-Money Laundering (AML) and Know Your Customer (KYC) compliance. The User agrees to cooperate fully with Yumpie in adhering to the applicable AML and KYC regulations and providing any required information and documentation promptly.
+
+Failure to comply with this AML and KYC Policy and/or any other related terms and policies may result in restrictions on accessing our services, and in extreme cases, may lead to the termination of the User's account or participation in the ICO.
+
+The User's commitment to adhering to this AML and KYC Policy is of utmost importance to ensure the integrity and legality of our platform. By participating in the Yumpie Token ICO, the User demonstrates their understanding of the significance of AML and KYC procedures and their willingness to be a responsible and compliant participant.
+
+Should the User disagree with any part of this AML and KYC Policy, the Terms of Use, or the Data Protection Policy, they must refrain from using our services and accessing the website.
+
+Yumpie is committed to maintaining a secure and compliant environment for all its users and appreciates the User's cooperation in achieving this objective. Together, we can foster a trustworthy and safe ecosystem for everyone involved.
+
+This AML and KYC Policy is subject to change without prior notice. Users will be notified of any modifications, and it is their responsibility to remain informed about the latest policies.
 
 ##### 6.2 Privacy policy
 
