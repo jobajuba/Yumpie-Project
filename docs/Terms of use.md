@@ -5,7 +5,7 @@ sidebar_position: 9
 # Yumpie Terms of Use 
 
 :::info
-Last updated March 09, 2022
+Last updated July 30, 2023
 :::
 
 :::note
