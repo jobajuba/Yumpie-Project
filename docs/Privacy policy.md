@@ -5,13 +5,13 @@ sidebar_position: 7
 # Yumpie Privacy Policy
 
 :::info
-Last updated March 09, 2022
+Last updated July 30, 2023
 :::
 
 :::note
 This privacy notice for Jobajuba Digital Studio Limited ("Company," "we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
 
-Visit our website at http://yumpie.app/, or any website of ours that links to this privacy notice
+Visit our website at https://yumpie.app/, https://yumpie.live/ or any website of ours that links to this privacy notice
 
 Engage with us in other related ways ― including any sales, marketing, or events
 Questions or concerns? 
