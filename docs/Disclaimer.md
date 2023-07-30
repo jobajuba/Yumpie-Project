@@ -5,11 +5,11 @@ sidebar_position: 6
 # Disclaimer 
 
 :::info
-Last updated March 09, 2022
+Last updated July 30, 2023
 :::
 
 :::note
-The information provided by Jobajuba Digital Studio Limited (“we,” “us”, or “our”) on http://yumpie.app (the “Site”) is for general informational purposes only. 
+The information provided by Jobajuba Digital Studio Limited (“we,” “us”, or “our”) on https://yumpie.app, https//yumpie.live (the “Site(s)”) is for general informational purposes only. 
 
 All information on the Site is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability or completeness of any information on the Site. 
 :::
@@ -22,7 +22,7 @@ If you require any more information or have any questions about our site's discl
 
 ## Disclaimers for Yumpie
 
-All the information on this website - yumpie.app - is published in good faith and for general information purpose only. Yumpie does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (Yumpie), is strictly at your own risk. Yumpie will not be liable for any losses and/or damages in connection with the use of our website.
+All the information on this website - yumpie.app, yumpie.live - is published in good faith and for general information purpose only. Yumpie does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (Yumpie), is strictly at your own risk. Yumpie will not be liable for any losses and/or damages in connection with the use of our website.
 
 From our website, you can visit other websites by following hyperlinks to such external sites. While we strive to provide only quality links to useful and ethical websites, we have no control over the content and nature of these sites. These links to other websites do not imply a recommendation for all the content found on these sites. Site owners and content may change without notice and may occur before we have the opportunity to remove a link which may have gone 'bad'.
 
