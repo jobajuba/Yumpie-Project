@@ -184,7 +184,7 @@ Yumpie Token, in accordance with international requirements takes a risk-based a
 
 ##### 6.1 Acceptance
 
-By participating in the Yumpie Token Initial Coin Offering (ICO), defined as making a Yumpie Token token purchase through the specific method stated in clause 4 of this AML and KYC Policy, the User explicitly agrees to comply with the following terms. Prior to participating in the ICO, the User is required to carefully read, understand, and accept the Terms of Use and Data Protection Policy available at https://yumpie.app and http://yumpie.app/.
+By participating in the Yumpie Token Initial Coin Offering (ICO), defined as making a Yumpie Token token purchase through the specific method stated in clause 4 of this AML and KYC Policy, the User explicitly agrees to comply with the following terms. Prior to participating in the ICO, the User is required to carefully read, understand, and accept the Terms of Use and Data Protection Policy available at https://yumpie.app and https://yumpie.live/.
 
 In addition to the aforementioned policies, certain services provided on our platform may be subject to additional agreements, which will be applicable to the User when using those specific services. It is essential for the User to review and abide by any such additional agreements related to the provided services.
 
